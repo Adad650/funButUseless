@@ -17,7 +17,7 @@ This repository contains small scripts, tools, and code snippets created for ent
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/funButUseless.git
+    git clone https://github.com/Adad650/funButUseless
     ```
 2. Explore the folders and files.
 3. Run scripts as described in their respective directories.
