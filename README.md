@@ -1,6 +1,6 @@
 # funButUseless
 
-A collection of fun but ultimately useless coding experiments and projects.
+A collection of fun but ultimately useless (Hence the name) coding experiments and projects.
 
 ## Overview
 
